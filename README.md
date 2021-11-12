@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Samuel-Wakeman
-- 👀 I’m interested in  chess
+-I'm a software developer in lansing Michigan.
+- 👀 I’m interested in chess
 - 🌱 I’m currently learning . react, .net and other web tools
 - Feel free to reach out to me at sam.wakeman@gmail.com if you find my projects interesting.
